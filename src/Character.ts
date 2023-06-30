@@ -1,4 +1,6 @@
 export class Character {
+
+
     
     private _name: string;
     private _species: string;
