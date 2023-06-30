@@ -17,6 +17,7 @@ async function getCharacterForRickAndMortyAPI(): Promise<string> {
     });
 }
 
+
 getCharacterForRickAndMortyAPI()
     .then((fromResolve: any) => {
 
